@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/codesandbox-app/static-template#readme",
   "devDependencies": {
+    "http-server": "^0.12.0",
     "serve": "^11.2.0"
   }
 }
